@@ -1,0 +1,47 @@
+[
+  {
+    "date": "2023-03-31",
+    "url": "https://npb.jp/scores/2023/0331/g-d-01/",
+    "home": "読売ジャイアンツ",
+    "road": "中日ドラゴンズ",
+    "score": "3 - 6",
+    "place": "東京ドーム",
+    "status": "試合終了"
+  },
+  {
+    "date": "2023-03-31",
+    "url": "https://npb.jp/scores/2023/0331/s-c-01/",
+    "home": "東京ヤクルトスワローズ",
+    "road": "広島東洋カープ",
+    "score": "4 - 0",
+    "place": "神　宮",
+    "status": "試合終了"
+  },
+  {
+    "date": "2023-03-31",
+    "url": "https://npb.jp/scores/2023/0331/t-db-01/",
+    "home": "阪神タイガース",
+    "road": "横浜DeNAベイスターズ",
+    "score": "6 - 3",
+    "place": "京セラD大阪",
+    "status": "試合終了"
+  },
+  {
+    "date": "2023-03-31",
+    "url": "https://npb.jp/scores/2023/0331/l-b-01/",
+    "home": "埼玉西武ライオンズ",
+    "road": "オリックス・バファローズ",
+    "score": "2 - 3",
+    "place": "ベルーナドーム",
+    "status": "試合終了"
+  },
+  {
+    "date": "2023-03-31",
+    "url": "https://npb.jp/scores/2023/0331/h-m-01/",
+    "home": "福岡ソフトバンクホークス",
+    "road": "千葉ロッテマリーンズ",
+    "score": "4 - 0",
+    "place": "PayPayドーム",
+    "status": "試合終了"
+  }
+]
