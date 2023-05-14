@@ -21,7 +21,7 @@ jobs:
     - name: install puppeteer
       run: npm ci
     - name: get results of today
-      run: node ../puppeteer/today.js && jq -s '.|add' > ../docs/npb2023-results.json
+      run: node ../puppeteer/today.js && jq -s '.|add' npb-2023*json > ../docs/npb2023-results.json
       working-directory: ./daily
     - name: commit and push
       run: |
