@@ -2032,5 +2032,32 @@
     "score": "5 - 1",
     "place": "ZOZOマリン",
     "status": "試合終了"
+  },
+  {
+    "date": "2023-05-19",
+    "url": "https://npb.jp/scores/2023/0519/t-c-07/",
+    "home": "阪神タイガース",
+    "road": "広島東洋カープ",
+    "score": "7 - 10",
+    "place": "甲子園",
+    "status": "試合終了"
+  },
+  {
+    "date": "2023-05-19",
+    "url": "https://npb.jp/scores/2023/0519/b-f-06/",
+    "home": "オリックス・バファローズ",
+    "road": "北海道日本ハムファイターズ",
+    "score": "0 - 1",
+    "place": "京セラD大阪",
+    "status": "試合終了"
+  },
+  {
+    "date": "2023-05-19",
+    "url": "https://npb.jp/scores/2023/0519/h-l-05/",
+    "home": "福岡ソフトバンクホークス",
+    "road": "埼玉西武ライオンズ",
+    "score": "5 - 4",
+    "place": "PayPayドーム",
+    "status": "試合終了"
   }
 ]
