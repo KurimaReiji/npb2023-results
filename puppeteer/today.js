@@ -42,6 +42,9 @@ const scraper = () => {
 
 (async () => {
   const browser = await puppeteer.launch({
+    args: [
+      '--host-rules=MAP npb.jp 203.133.234.140'
+    ],
     defaultViewport: {
       width: 1200,
       height: 1100,
