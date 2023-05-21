@@ -54,7 +54,7 @@ const scraper = () => {
   const targetURL = `https://npb.jp/`;
   await page.goto(targetURL);
   console.log("Hello npb.jp");
-  await page.waitForSelector(".info");
+  await page.waitForSelector(".contents");
   const data = await page.evaluate(scraper);
 
   await browser.close();
