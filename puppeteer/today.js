@@ -42,10 +42,6 @@ const scraper = () => {
 
 (async () => {
   const browser = await puppeteer.launch({
-    args: [
-      '--host-rules=MAP npb.jp 203.133.234.140'
-    ],
-    ignoreHTTPSErrors: true,
     defaultViewport: {
       width: 1200,
       height: 1100,
@@ -57,6 +53,7 @@ const scraper = () => {
 
   const targetURL = `https://npb.jp/`;
   await page.goto(targetURL);
+  console.log("Hello npb.jp");
   await page.waitForSelector(".info");
   const data = await page.evaluate(scraper);
 
