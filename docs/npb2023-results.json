@@ -2212,5 +2212,59 @@
     "score": "8 - 0",
     "place": "ほっと神戸",
     "status": "試合終了"
+  },
+  {
+    "date": "2023-05-24",
+    "url": "https://npb.jp/scores/2023/0524/g-db-09/",
+    "home": "読売ジャイアンツ",
+    "road": "横浜DeNAベイスターズ",
+    "score": "1 - 0",
+    "place": "東京ドーム",
+    "status": "試合終了"
+  },
+  {
+    "date": "2023-05-24",
+    "url": "https://npb.jp/scores/2023/0524/s-t-11/",
+    "home": "東京ヤクルトスワローズ",
+    "road": "阪神タイガース",
+    "score": "5 - 6",
+    "place": "神宮",
+    "status": "試合終了"
+  },
+  {
+    "date": "2023-05-24",
+    "url": "https://npb.jp/scores/2023/0524/c-d-09/",
+    "home": "広島東洋カープ",
+    "road": "中日ドラゴンズ",
+    "score": "6 - 2",
+    "place": "マツダスタジアム",
+    "status": "試合終了"
+  },
+  {
+    "date": "2023-05-24",
+    "url": "https://npb.jp/scores/2023/0524/f-h-10/",
+    "home": "北海道日本ハムファイターズ",
+    "road": "福岡ソフトバンクホークス",
+    "score": "1 - 2",
+    "place": "エスコンＦ",
+    "status": "試合終了"
+  },
+  {
+    "date": "2023-05-24",
+    "url": "https://npb.jp/scores/2023/0524/m-l-09/",
+    "home": "千葉ロッテマリーンズ",
+    "road": "埼玉西武ライオンズ",
+    "score": "11 - 1",
+    "place": "ZOZOマリン",
+    "status": "試合終了"
+  },
+  {
+    "date": "2023-05-24",
+    "url": "https://npb.jp/scores/2023/0524/b-e-10/",
+    "home": "オリックス・バファローズ",
+    "road": "東北楽天ゴールデンイーグルス",
+    "score": "6 - 5",
+    "place": "ほっと神戸",
+    "status": "試合終了"
   }
 ]
