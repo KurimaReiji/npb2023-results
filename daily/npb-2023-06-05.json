@@ -1,0 +1,20 @@
+[
+  {
+    "date": "2023-06-05",
+    "url": "https://npb.jp/scores/2023/0605/db-l-03/",
+    "home": "横浜DeNAベイスターズ",
+    "road": "埼玉西武ライオンズ",
+    "score": "4 - 6",
+    "place": "横浜",
+    "status": "試合終了"
+  },
+  {
+    "date": "2023-06-05",
+    "url": "https://npb.jp/scores/2023/0605/t-m-03/",
+    "home": "阪神タイガース",
+    "road": "千葉ロッテマリーンズ",
+    "score": "7 - 7",
+    "place": "甲子園",
+    "status": "試合終了"
+  }
+]
