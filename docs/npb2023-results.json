@@ -2770,5 +2770,59 @@
     "score": "7 - 7",
     "place": "甲子園",
     "status": "試合終了"
+  },
+  {
+    "date": "2023-06-06",
+    "url": "https://npb.jp/scores/2023/0606/f-c-01/",
+    "home": "北海道日本ハムファイターズ",
+    "road": "広島東洋カープ",
+    "score": "2 - 3",
+    "place": "エスコンＦ",
+    "status": "試合終了"
+  },
+  {
+    "date": "2023-06-06",
+    "url": "https://npb.jp/scores/2023/0606/e-t-01/",
+    "home": "東北楽天ゴールデンイーグルス",
+    "road": "阪神タイガース",
+    "score": "4 - 1",
+    "place": "楽天モバイル",
+    "status": "試合終了"
+  },
+  {
+    "date": "2023-06-06",
+    "url": "https://npb.jp/scores/2023/0606/l-d-01/",
+    "home": "埼玉西武ライオンズ",
+    "road": "中日ドラゴンズ",
+    "score": "1 - 2",
+    "place": "県営大宮",
+    "status": "試合終了"
+  },
+  {
+    "date": "2023-06-06",
+    "url": "https://npb.jp/scores/2023/0606/m-s-01/",
+    "home": "千葉ロッテマリーンズ",
+    "road": "東京ヤクルトスワローズ",
+    "score": "3 - 10",
+    "place": "ZOZOマリン",
+    "status": "試合終了"
+  },
+  {
+    "date": "2023-06-06",
+    "url": "https://npb.jp/scores/2023/0606/b-g-01/",
+    "home": "オリックス・バファローズ",
+    "road": "読売ジャイアンツ",
+    "score": "2 - 1",
+    "place": "京セラD大阪",
+    "status": "試合終了"
+  },
+  {
+    "date": "2023-06-06",
+    "url": "https://npb.jp/scores/2023/0606/h-db-01/",
+    "home": "福岡ソフトバンクホークス",
+    "road": "横浜DeNAベイスターズ",
+    "score": "2 - 1",
+    "place": "PayPayドーム",
+    "status": "試合終了"
   }
 ]
