@@ -3040,5 +3040,50 @@
     "score": "6 - 10",
     "place": "PayPayドーム",
     "status": "試合終了"
+  },
+  {
+    "date": "2023-06-11",
+    "url": "https://npb.jp/scores/2023/0611/f-t-03/",
+    "home": "北海道日本ハムファイターズ",
+    "road": "阪神タイガース",
+    "score": "0 - 1",
+    "place": "エスコンＦ",
+    "status": "試合終了"
+  },
+  {
+    "date": "2023-06-11",
+    "url": "https://npb.jp/scores/2023/0611/l-s-03/",
+    "home": "埼玉西武ライオンズ",
+    "road": "東京ヤクルトスワローズ",
+    "score": "2 - 3",
+    "place": "ベルーナドーム",
+    "status": "試合終了"
+  },
+  {
+    "date": "2023-06-11",
+    "url": "https://npb.jp/scores/2023/0611/m-c-03/",
+    "home": "千葉ロッテマリーンズ",
+    "road": "広島東洋カープ",
+    "score": "6 - 5",
+    "place": "ZOZOマリン",
+    "status": "試合終了"
+  },
+  {
+    "date": "2023-06-11",
+    "url": "https://npb.jp/scores/2023/0611/b-db-03/",
+    "home": "オリックス・バファローズ",
+    "road": "横浜DeNAベイスターズ",
+    "score": "4 - 8",
+    "place": "京セラD大阪",
+    "status": "試合終了"
+  },
+  {
+    "date": "2023-06-11",
+    "url": "https://npb.jp/scores/2023/0611/h-g-03/",
+    "home": "福岡ソフトバンクホークス",
+    "road": "読売ジャイアンツ",
+    "score": "2 - 4",
+    "place": "PayPayドーム",
+    "status": "試合終了"
   }
 ]
