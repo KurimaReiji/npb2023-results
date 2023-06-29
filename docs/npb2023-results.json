@@ -3688,5 +3688,32 @@
     "score": "3 - 2",
     "place": "PayPayドーム",
     "status": "試合終了"
+  },
+  {
+    "date": "2023-06-29",
+    "url": "https://npb.jp/scores/2023/0629/t-d-12/",
+    "home": "阪神タイガース",
+    "road": "中日ドラゴンズ",
+    "score": "8 - 0",
+    "place": "甲子園",
+    "status": "試合終了"
+  },
+  {
+    "date": "2023-06-29",
+    "url": "https://npb.jp/scores/2023/0629/c-db-12/",
+    "home": "広島東洋カープ",
+    "road": "横浜DeNAベイスターズ",
+    "score": "5 - 3",
+    "place": "マツダスタジアム",
+    "status": "試合終了"
+  },
+  {
+    "date": "2023-06-29",
+    "url": "https://npb.jp/scores/2023/0629/h-e-09/",
+    "home": "福岡ソフトバンクホークス",
+    "road": "東北楽天ゴールデンイーグルス",
+    "score": "3 - 2",
+    "place": "PayPayドーム",
+    "status": "試合終了"
   }
 ]
