@@ -52,7 +52,7 @@ const scraper = () => {
   const page = await browser.newPage();
 
   const targetURL = `https://npb.jp/`;
-  await page.goto(targetURL);
+  await page.goto(targetURL, { timeout: 60000 });
   console.log("Hello npb.jp");
   await page.waitForSelector(".contents");
   const data = await page.evaluate(scraper);
