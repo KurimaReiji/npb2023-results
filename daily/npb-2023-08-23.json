@@ -1,0 +1,56 @@
+[
+  {
+    "date": "2023-08-23",
+    "url": "https://npb.jp/scores/2023/0823/g-s-18/",
+    "home": "読売ジャイアンツ",
+    "road": "東京ヤクルトスワローズ",
+    "score": "4 - 3",
+    "place": "東京ドーム",
+    "status": "試合終了"
+  },
+  {
+    "date": "2023-08-23",
+    "url": "https://npb.jp/scores/2023/0823/db-c-20/",
+    "home": "横浜DeNAベイスターズ",
+    "road": "広島東洋カープ",
+    "score": "2 - 5",
+    "place": "横浜",
+    "status": "試合終了"
+  },
+  {
+    "date": "2023-08-23",
+    "url": "https://npb.jp/scores/2023/0823/t-d-20/",
+    "home": "阪神タイガース",
+    "road": "中日ドラゴンズ",
+    "score": "7 - 2",
+    "place": "京セラD大阪",
+    "status": "試合終了"
+  },
+  {
+    "date": "2023-08-23",
+    "url": "https://npb.jp/scores/2023/0823/f-e-20/",
+    "home": "北海道日本ハムファイターズ",
+    "road": "東北楽天ゴールデンイーグルス",
+    "score": "10 - 4",
+    "place": "エスコンＦ",
+    "status": "試合終了"
+  },
+  {
+    "date": "2023-08-23",
+    "url": "https://npb.jp/scores/2023/0823/l-b-19/",
+    "home": "埼玉西武ライオンズ",
+    "road": "オリックス・バファローズ",
+    "score": "0 - 3",
+    "place": "ベルーナドーム",
+    "status": "試合終了"
+  },
+  {
+    "date": "2023-08-23",
+    "url": "https://npb.jp/scores/2023/0823/m-h-18/",
+    "home": "千葉ロッテマリーンズ",
+    "road": "福岡ソフトバンクホークス",
+    "score": "5 - 9",
+    "place": "ZOZOマリン",
+    "status": "試合終了"
+  }
+]
