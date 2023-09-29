@@ -7450,5 +7450,32 @@
     "score": "9 - 5",
     "place": "楽天モバイル",
     "status": "試合終了"
+  },
+  {
+    "date": "2023-09-29",
+    "url": "https://npb.jp/scores/2023/0929/db-t-25/",
+    "home": "横浜DeNAベイスターズ",
+    "road": "阪神タイガース",
+    "score": "5 - 3",
+    "place": "横浜",
+    "status": "試合終了"
+  },
+  {
+    "date": "2023-09-29",
+    "url": "https://npb.jp/scores/2023/0929/c-d-25/",
+    "home": "広島東洋カープ",
+    "road": "中日ドラゴンズ",
+    "score": "1 - 4",
+    "place": "マツダスタジアム",
+    "status": "試合終了"
+  },
+  {
+    "date": "2023-09-29",
+    "url": "https://npb.jp/scores/2023/0929/h-l-25/",
+    "home": "福岡ソフトバンクホークス",
+    "road": "埼玉西武ライオンズ",
+    "score": "1 - 0",
+    "place": "PayPayドーム",
+    "status": "試合終了"
   }
 ]
